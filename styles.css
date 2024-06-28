@@ -70,7 +70,7 @@ h1
     display: flex;
     flex-direction: column;
     width: 50%;
-    margin-left: 230px;
+    margin-left: 250px;
     gap: 30px;
     margin-top: 80px;
 }
@@ -178,7 +178,7 @@ h2{
         border: 2px solid white;
         border-radius: 8px;
         margin-top: 50px;
-        ma
+        
 
     
 }
@@ -196,4 +196,15 @@ h4{
 .p-fourth{
     color: #E5E7EB;
     font-size: 18px;
+}
+
+footer{
+    background-color: #1F2937;
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+
 }
