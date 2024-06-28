@@ -87,7 +87,7 @@ img{
     width: 100px;
     height: 40px;
     border: 1px #3882F6;
-    border-radius: 16px;
+    border-radius: 12px;
 }
 
 h2{
@@ -150,4 +150,50 @@ h2{
 .p-third{
     margin-left: 500px;
     margin-top: 20px;
+}
+
+.fourth-section{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background-color: #3882F6;
+    width: 75%;
+    height: 50%;
+    display: flex;
+    color: white;
+    border-radius: 8px;
+
+}
+
+.last-btn{
+    
+        background-color: #3882F6;
+        color: white;
+        width: 100px;
+        height: 40px;
+        border: 2px solid white;
+        border-radius: 8px;
+        margin-top: 50px;
+        ma
+
+    
+}
+.left{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    justify-content: center;
+}
+h4{
+    font-size: 24PX;
+}
+
+.p-fourth{
+    color: #E5E7EB;
+    font-size: 18px;
 }
